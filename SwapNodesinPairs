@@ -1,0 +1,11 @@
+head = [1,2,3,4]
+lenrange = int(len(head))
+i = 0
+
+while i < lenrange :
+    
+    new = head[i]
+    head[i] = head[i + 1]
+    head[i + 1] = new
+    i += 2       
+print(head)         
