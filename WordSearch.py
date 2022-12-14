@@ -1,37 +1,36 @@
 
 words = ["oath","pea","eat","rain"]
 row1 = [["o","a","a","n"],["e","t","a","e"],["i","h","k","r"],["i","f","l","v"]]
-
-
-
 count = []
 
 def verified2(list, word):
         
-        wordsis = []
+    wordsis = []
         
-        lista = []
+    lista = []
+    listaword = []
         
-        for m in row1:
-            wordsis = m + wordsis
+    for m in row1:
+        wordsis = wordsis + m
+    
+    for n in list:
             
-        
-         
-        for n in list:
-            
-            if n in wordsis:
+        if n in wordsis:
+
+            lista.append(n)
                 
                 
-                if len(lista) < len(word):
+    finalword = "".join(lista)
+    listaword.append(finalword)
+    print(listaword)
+
+
+def listafinal(finalword, listaword):
+
+        listaword.append(finalword)
                     
-                
-                    lista.append(n)
-                    
-                if len(lista) > len(word) or len(lista) == len(word):
-                    count.append(n)
-        print(count) 
-        print(lista)   
-                
+        print(listaword)
+       
           
 def verified(word):
   
@@ -39,20 +38,13 @@ def verified(word):
     
     for j in word:
         
-        
-        
         list.append(j)
     
         
     verified2(list, word)
     
-
-        
-
-        
-        
-            
 for i in range(len(words)):
     
  
     verified(words[i])
+   
