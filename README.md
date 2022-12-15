@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Dizziolica/LeetCode">
+  <a href="https://github.com/Dizziolica/BreakingCodeInterview">
     <img src="/dizziolica.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -21,10 +21,10 @@
   <p align="center">
     Utility Project
     <br />
-    <a href="https://github.com/Dizziolica/LeetCode"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Dizziolica/BreakingCodeInterview"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Dizziolica/LeetCode">View Demo</a>
+    <a href="https://github.com/Dizziolica/BreakingCodeInterview">View Demo</a>
     
    
   </p>
@@ -71,8 +71,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Leetcode exercises to practice programming logic,
-I try with these exercises to make the simplest way and easy understanding
+practicing the basics of the python language to be more comfortable using it in more complex projects
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,6 +85,7 @@ I try with these exercises to make the simplest way and easy understanding
 - [x] MergeSortList
 - [x] Repeting
 - [x] RotateArray
+- [x] All Tool for Training
     
 
 
@@ -96,6 +96,8 @@ I try with these exercises to make the simplest way and easy understanding
 
 <!-- CONTRIBUTING -->
 ## Contributing
+
+
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
