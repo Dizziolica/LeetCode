@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Dizziolica/BreakingCodeInterview">
+  <a href="https://github.com/Dizziolica/LeetCode">
     <img src="/dizziolica.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -21,10 +21,10 @@
   <p align="center">
     Utility Project
     <br />
-    <a href="https://github.com/Dizziolica/BreakingCodeInterview"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Dizziolica/LeetCode"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Dizziolica/BreakingCodeInterview">View Demo</a>
+    <a href="https://github.com/Dizziolica/LeetCode">View Demo</a>
     
    
   </p>
