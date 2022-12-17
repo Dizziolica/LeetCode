@@ -1,4 +1,4 @@
-ums = [-1, 0, 1 ,2, -1, -4]
+nums = [-1, 0, 1 ,2, -1, -4]
 newlist1 = []
 newlist2 = []
 n = len(nums)
